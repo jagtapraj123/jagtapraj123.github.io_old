@@ -1,0 +1,13 @@
+.page_title{
+    text-align: center;
+}
+body{
+    background-image: url("desk-wallpaper-2560x1440.jpg");
+    background-repeat: no-repeat;
+    background-size: 100;
+    background-attachment: fixed;
+}
+div.container{
+    border-radius: 5px;
+    background-color: #dbe8ff;
+}
